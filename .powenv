@@ -1,12 +1,7 @@
-export PATH ; PATH="/Users/david/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0/bin:/Users/david/.rvm/gems/ruby-2.0.0-p247@global/bin:/Users/david/.rvm/rubies/ruby-2.0.0-p247/bin:/Users/david/.rvm/bin:$PATH"
-export rvm_env_string ; rvm_env_string='ruby-2.0.0-p247@railstutorial_rails_4_0'
-export rvm_path ; rvm_path='/Users/david/.rvm'
-export rvm_ruby_string ; rvm_ruby_string='ruby-2.0.0-p247'
-export rvm_gemset_name ; rvm_gemset_name='railstutorial_rails_4_0'
-export RUBY_VERSION ; RUBY_VERSION='ruby-2.0.0-p247'
-export GEM_HOME ; GEM_HOME='/Users/david/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0'
-export GEM_PATH ; GEM_PATH='/Users/david/.rvm/gems/ruby-2.0.0-p247@railstutorial_rails_4_0:/Users/david/.rvm/gems/ruby-2.0.0-p247@global'
-export MY_RUBY_HOME ; MY_RUBY_HOME='/Users/david/.rvm/rubies/ruby-2.0.0-p247'
-export IRBRC ; IRBRC='/Users/david/.rvm/rubies/ruby-2.0.0-p247/.irbrc'
+export PATH="/Users/ymcagodme/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0/bin:/Users/ymcagodme/.rvm/gems/ruby-2.0.0-p353@global/bin:/Users/ymcagodme/.rvm/rubies/ruby-2.0.0-p353/bin:$PATH"
+export GEM_HOME='/Users/ymcagodme/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0'
+export GEM_PATH='/Users/ymcagodme/.rvm/gems/ruby-2.0.0-p353@railstutorial_rails_4_0:/Users/ymcagodme/.rvm/gems/ruby-2.0.0-p353@global'
+export MY_RUBY_HOME='/Users/ymcagodme/.rvm/rubies/ruby-2.0.0-p353'
+export IRBRC='/Users/ymcagodme/.rvm/rubies/ruby-2.0.0-p353/.irbrc'
 unset MAGLEV_HOME
 unset RBXOPT
